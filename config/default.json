@@ -1,0 +1,10 @@
+{
+	"mailtrap": {
+		"host": "sandbox.smtp.mailtrap.io",
+		"smtp_port": "2525",
+        "user": "feaca37bbcd227",
+        "password": "9a0ea4e1de9af0"
+	},
+	"app_port": "3000",
+    "to_email": "contato@fruki.com.br"
+}
